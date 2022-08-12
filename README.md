@@ -1,4 +1,7 @@
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h2>
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&duration=6000&pause=1000&color=A5F7D1&center=true&vCenter=true&width=1000&lines=I'm+Maneesh+Prashanth">
+</h2>
 
 <p> 
 When I was growing up in the programming world, I'm passionate about building and improving applications that solve and fulfill real-world problems and create a positive experience for users. And also like to make people's life more easier with new technology solutions. I worked for various organizations on various products and projects like Web Development & Graphic Design works. Also, I have followed an NVQ Level 5 ICT (Diploma) in the Vocational Training Authority of Sri Lanka. And now I'm following a 4-year degree in Sri Lanka Institute of Information Technology Guarantee Ltd - [SLIIT]
@@ -42,7 +45,7 @@ When I was growing up in the programming world, I'm passionate about building an
   </a>
 </p>
 
-## 👨‍💻My Github Stats 
+## 🤖My Github Stats 
 <p align="center">
 <table border="0">
 <tr>
@@ -61,12 +64,18 @@ When I was growing up in the programming world, I'm passionate about building an
 
 <a href="https://github.com/ManeeshDev/github-readme-stats"><img alt="ManeeshDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
+
  
 ## 🏷️Languages and Tools
+<!--
 <p>I'm very very interested in new technologies and always trying to learn one by one when they come to a useful state. </p>
+-->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=500&color=F7C62E&center=true&vCenter=true&width=1050&height=20&lines=I'm+very+very+interested+in+new+technologies+and+always+trying+to+learn+one+by+one+when+they+come+to+a+useful+state.">  
+</p>
 
 <p align="left"> 
-• Web Technologies:
+• Web Technologies :
 <br/>
 <a href="https://www.w3.org/html/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40"/> </a>
@@ -85,7 +94,7 @@ When I was growing up in the programming world, I'm passionate about building an
 </p>
 
 <p align="left">
-• Frameworks/Libraries:
+• Frameworks / Libraries :
 <br/>
 <a href="https://angular.io/" target="_blank"> 
 	<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" width="40"/> </a>
@@ -112,7 +121,7 @@ When I was growing up in the programming world, I'm passionate about building an
 </p>
 
 <p align="left"> 
-• Languages/Scripting :
+• Languages / Scripting :
 <br/>
 <a href="https://www.php.net/" target="_blank"> 
 	<img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="40"/> </a> 
@@ -136,8 +145,153 @@ When I was growing up in the programming world, I'm passionate about building an
 	<img src="https://www.foxinfotech.in/wp-content/uploads/2018/09/vb.net-tutorials.jpg" width="100" height="40"/> </a> 
 <a href="https://dart.dev/" target="_blank"> 
 	<img src="https://img.icons8.com/color/344/dart.png" width="40"/> </a> 
-
 </p>
+
+<p align="left"> 
+• Database / ORM | ODM : 
+<br/>
+<a href="https://www.mysql.com/" target="_blank"> 
+	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/firebase.png" width="40"/> </a> 
+<a href="https://mongoosejs.com/" target="_blank"> 
+	<img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" width="80"/> </a> 
+<a href="https://sequelize.org/" target="_blank"> 
+	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.png" width="80"/> </a> 
+<a href="https://laravel.com/docs/master/eloquent" target="_blank"> 
+	<img src="https://styde.net/wp-content/uploads/2015/05/laravel-eloquent-orm.png" width="150"/> </a> 
+</p>
+
+<p align="left"> 
+• Version Control / Tools : 
+<br/>
+<a href="https://git-scm.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/git.png" width="40"/> </a> 
+<a href="https://github.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/github.png" width="40"/> </a> 
+<a href="https://bitbucket.org/product/" target="_blank"> 
+	<img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/bitbucket-vector-logo-2022.png" width="70"/> </a>
+<a href="https://about.gitlab.com/" target="_blank"> 
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPT4_7UiNn4-nia2Sx0hiEshh_TDFc64f7aWX908Z1VdVW4XU0lvGTCNpeYPDW5cBMfg&usqp=CAU" width="40"/> </a>
+<a href="https://www.sourcetreeapp.com/" target="_blank"> 
+	<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="30"/> </a> 
+<a href="https://www.apachefriends.org/" target="_blank"> 
+	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width="30"/> </a> 
+<a href="https://developer.android.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="40"/> </a>
+<a href="https://postman.com" target="_blank"> 
+	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35"/> </a> 
+<a href="https://www.jetbrains.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/jetbrains.png" width="40"/> </a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
+	<img src="https://img.icons8.com/color/344/webstorm.png" width="40"/> </a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank"> 
+	<img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" width="32"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> 
+	<img src="https://img.icons8.com/color/344/intellij-idea.png" width="38"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="38"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="38"/> </a>
+<a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> 
+	<img src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png" width="35"/> </a>
+<a href="https://netbeans.apache.org/" target="_blank"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="30"/> </a>
+</p>
+
+<p align="left"> 
+• Design Base : 
+<br/>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-illustrator--v1.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-lightroom--v1.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/344/adobe-xd.png" width="40"/> </a>
+<a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-dreamweaver--v1.png" width="40"/> </a>
+<a href="https://www.coreldraw.com/en/" target="_blank"> 
+	<img src="https://img.icons8.com/fluency/344/coreldraw-2021.png" width="40"/> </a>
+</p>
+<br/>
+
+## 🏷️Concepts
+<p>✅ OOP   ✅ MVC   ✅ Functional-Reactive Programming </p>
+<br/>
+
+## 👨‍💻Industrial Experience & Education
+<table>
+<tr>
+    <td><p align="center"> 
+    <a href="https://efitosolutions.com/">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFkwlKOCZoRfg/company-logo_200_200/0/1519934519113?e=2147483647&v=beta&t=gyssCMJ4QYKF1fo2TSUHqgmbn6hVrajTdgBK_hif07s" width="40"/>
+      <br/>Efito Solutions (Pvt) Ltd
+    </a><p/></td>
+    <td>Software Engineer <br/> Part-time <br/> Oct 2021 - Present</td>
+    <td>Software Engineer <br/> Full-time <br/> Aug 2020 - Sep 2021</td>
+    <td>Associate Software Engineer <br/> Full-time <br/> Feb 2020 - Jul 2020</td>
+</tr>
+<tr>
+    <td><p align="center"> 
+    <a href="https://www.fiverr.com/maneeshdev01/do-any-graphic-design-work">
+      Graphic Designer
+    </a><p/></td>
+    <td>Freelance, self-employed <br/> 2016 - Present</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td><p align="center"> 
+    <a href="#">
+      Photographer / Designer
+    </a><p/></td>
+    <td>Studio Flash <br/> Jul 2018 - 2019 <br/> Karapitiya, Sri Lanka.Karapitiya, Sri Lanka. <br/> It managed myself.</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td><p align="center"> 
+    <a href="#">
+      Graphic Designer / Photographer
+    </a><p/></td>
+    <td>Visiontec Computers <br/> Dec 2017 - May 2018 <br/> Unawatuna, Sri Lanka.</td>
+    <td></td>
+    <td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td><p align="center"> 
+    <a href="https://www.sliit.lk/">
+      SLIIT
+    </a><p/></td>
+    <td>BSc(Hons) Degree in Information Technology specializing in Software Engineering <br/> (Undergraduate) <br/> Jun 2021 - 2025</td>
+</tr>
+<tr>
+    <td><p align="center"> 
+    <a href="https://www.vtasl.gov.lk/">
+      Vocational Training Authority of Sri Lanka
+    </a><p/></td>
+    <td>NVQ-5 in ICT (Diploma), Software Programming <br/> 2019 - 2020</td>
+</tr>
+</table>
+<br/>
+
+____________________________________
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=16&duration=6000&pause=1000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=It's+pleasure+to+me+you+are+exploring+my+profile...!">
+<a href="https://github.com/ManeeshDev/"> @ManeeshDev😍 </a> 
+</p>
+
 
 
 <!--
