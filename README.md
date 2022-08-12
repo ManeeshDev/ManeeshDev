@@ -231,6 +231,15 @@ When I was growing up in the programming world, I'm passionate about building an
 <table>
 <tr>
     <td><p align="center"> 
+    <a href="https://www.fiverr.com/maneeshdev01/">
+      Full Stack Developer
+    </a><p/></td>
+    <td>Freelance, Self-employed <br/> 2022 - Present</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td><p align="center"> 
     <a href="https://efitosolutions.com/">
       <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFkwlKOCZoRfg/company-logo_200_200/0/1519934519113?e=2147483647&v=beta&t=gyssCMJ4QYKF1fo2TSUHqgmbn6hVrajTdgBK_hif07s" width="40"/>
       <br/>Efito Solutions (Pvt) Ltd
@@ -244,23 +253,23 @@ When I was growing up in the programming world, I'm passionate about building an
     <a href="https://www.fiverr.com/maneeshdev01/do-any-graphic-design-work">
       Graphic Designer
     </a><p/></td>
-    <td>Freelance, self-employed <br/> 2016 - Present</td>
+    <td>Freelance, Self-employed <br/> 2016 - Present</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><p align="center"> 
     <a href="#">
-      Photographer / Designer
+      Photographer / <br/>Designer
     </a><p/></td>
-    <td>Studio Flash <br/> Jul 2018 - 2019 <br/> Karapitiya, Sri Lanka.Karapitiya, Sri Lanka. <br/> It managed myself.</td>
+    <td>Studio Flash <br/> Jul 2018 - 2019 <br/> Karapitiya, Sri Lanka. <br/> It managed myself.</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><p align="center"> 
     <a href="#">
-      Graphic Designer / Photographer
+      Graphic Designer / <br/>Photographer
     </a><p/></td>
     <td>Visiontec Computers <br/> Dec 2017 - May 2018 <br/> Unawatuna, Sri Lanka.</td>
     <td></td>
