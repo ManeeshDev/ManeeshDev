@@ -8,11 +8,11 @@ When I was growing up in the programming world, I'm passionate about building an
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ManeeshDev" alt="https://www.twitter.com/maneeshprashan" />
+	<img src="https://komarev.com/ghpvc/?username=ManeeshDev" alt="https://komarev.com/ghpvc/?username=ManeeshDev" />
 	<img src="https://img.shields.io/github/followers/ManeeshDev?label=Follow&style=social" alt="Github" />
   <img src="https://img.shields.io/github/stars/ManeeshDev?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
   <a href="https://twitter.com/maneeshprashan/" target="blank">
-	<img src="https://img.shields.io/twitter/follow/maneeshprashan?label=Follow" alt="">
+	<img src="https://img.shields.io/twitter/follow/maneeshprashan?label=Follow" alt="https://twitter.com/maneeshprashan/">
   </a>
 	<a href="https://www.linkedin.com/in/maneeshprashanth/" target="blank">
     <img src="https://img.shields.io/badge/-Maneesh_Prashanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maneeshprashanth/"   alt="https://www.linkedin.com/in/maneeshprashanth/" />
@@ -47,7 +47,7 @@ When I was growing up in the programming world, I'm passionate about building an
 
 ## 🤖My Github Stats 
 <p align="center">
-<table border="0">
+<table border="0" align="center">
 <tr>
 <td>
   <a href="https://github.com/ManeeshDev/github-readme-streak-stats">
@@ -62,10 +62,20 @@ When I was growing up in the programming world, I'm passionate about building an
 
 <a href="https://github.com/ManeeshDev/github-readme-activity-graph"><img alt="ManeeshDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManeeshDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<table border="0" align="center">
+<tr>
+<td>
 <a href="https://github.com/ManeeshDev/github-readme-stats"><img alt="ManeeshDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</td>
+<td>
+  <h3>Concepts<h5/>
+  <p>✅ OOP   <br/><br/>✅ MVC   <br/><br/>✅ Functional-Reactive Programming <br/><br/><br/></p>
+</td>
+</tr>
+</table>
+
 </p>
 
- 
 ## 🏷️Languages and Tools
 <!--
 <p>I'm very very interested in new technologies and always trying to learn one by one when they come to a useful state. </p>
@@ -223,12 +233,9 @@ When I was growing up in the programming world, I'm passionate about building an
 </p>
 <br/>
 
-## 🏷️Concepts
-<p>✅ OOP   ✅ MVC   ✅ Functional-Reactive Programming </p>
-<br/>
 
 ## 👨‍💻Industrial Experience & Education
-<table>
+<table align="center">
 <tr>
     <td><p align="center"> 
     <a href="https://www.fiverr.com/maneeshdev01/">
@@ -277,7 +284,7 @@ When I was growing up in the programming world, I'm passionate about building an
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
     <td><p align="center"> 
     <a href="https://www.sliit.lk/">
