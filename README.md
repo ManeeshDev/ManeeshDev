@@ -37,11 +37,14 @@ When I was growing up in the programming world, I'm passionate about building an
   <a href = "https://stackoverflow.com/users/13832493/maneeshdev/" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"  width="50"/>
   </a>
-  <a href = "manishprashangamage23@gmail.com" target="blank">
+  <a href = "mailto:manishprashangamage23@gmail.com" target="blank">
   <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
   </a>
   <a href = "https://www.hackerrank.com/maneeshprashanth/" target="blank">
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
+  </a>
+  <a href = "https://github.com/IT21169908/" target="blank">
+  <img src="https://img.icons8.com/nolan/344/github.png" width="50"/>
   </a>
 </p>
 
@@ -288,7 +291,8 @@ When I was growing up in the programming world, I'm passionate about building an
 <tr>
     <td><p align="center"> 
     <a href="https://www.sliit.lk/">
-      SLIIT
+      <img src="https://static.sliit.lk/wp-content/uploads/2021/10/24070027/SLIIT.png" width="140"/>
+      <br/>SLIIT
     </a><p/></td>
     <td>BSc(Hons) Degree in Information Technology specializing in Software Engineering <br/> (Undergraduate) <br/> Jun 2021 - 2025</td>
 </tr>
@@ -305,7 +309,10 @@ When I was growing up in the programming world, I'm passionate about building an
 ____________________________________
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=16&duration=6000&pause=1000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=It's+pleasure+to+me+you+are+exploring+my+profile...!">
-<a href="https://github.com/ManeeshDev/"> @ManeeshDev😍 </a> 
+<a href="https://github.com/ManeeshDev/">
+<img src="https://img.icons8.com/nolan/344/github.png" width="100"/>  <br/>
+@ManeeshDev 
+</a> 
 </p>
 
 
