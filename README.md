@@ -28,7 +28,7 @@ When I was growing up in the programming world, I'm passionate about building an
   <a href = "https://www.linkedin.com/in/maneeshprashanth/" target="blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href = "https://www.instagram.com/maneesh_prashanth/" target="blank">
+  <a href = "https://www.instagram.com/maneeshprashanth/" target="blank">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   <a href = "https://www.facebook.com/maneeshprashanth/" target="blank">
@@ -84,7 +84,7 @@ When I was growing up in the programming world, I'm passionate about building an
 <p>I'm very very interested in new technologies and always trying to learn one by one when they come to a useful state. </p>
 -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=500&color=F7C62E&center=true&vCenter=true&width=1050&height=20&lines=I'm+very+very+interested+in+new+technologies+and+always+trying+to+learn+one+by+one+when+they+come+to+a+useful+state.">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=5000&pause=1000&color=F7C62E&center=true&vCenter=true&width=1050&height=20&lines=I'm+very+very+interested+in+new+technologies+and+always+trying+to+learn+one+by+one+when+they+come+to+a+useful+state.">  
 </p>
 
 <p align="left"> 
