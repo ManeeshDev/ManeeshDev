@@ -4,7 +4,7 @@
 </h2>
 
 <p> 
-When I was growing up in the programming world, I'm passionate about building and improving applications that solve and fulfill real-world problems and create a positive experience for users. And also like to make people's life more easier with new technology solutions. I worked for various organizations on various products and projects like Web Development & Graphic Design works. Also, I have followed an NVQ Level 5 ICT (Diploma) in the Vocational Training Authority of Sri Lanka. And now I'm following a 4-year degree in Sri Lanka Institute of Information Technology Guarantee Ltd - [SLIIT]
+When I was growing up in the tech world, I'm passionate about building and improving applications that solve and fulfill real-world problems and create a positive experience for users. And also like to make people's life easier with new technology solutions. I worked for various organizations on various products and projects like Web Development & Graphic Design works. Also, I have followed an NVQ Level 5 ICT (Diploma) in the VTA. And now I'm following a Degree in SLIIT Faculty of Computing.
 </p>
 
 <p align="center"> 
@@ -244,7 +244,7 @@ When I was growing up in the programming world, I'm passionate about building an
     <a href="https://www.fiverr.com/maneeshdev01/">
       Full Stack Developer
     </a><p/></td>
-    <td>Freelance, Self-employed <br/> 2022 - Present</td>
+    <td>Freelance<br/> 2022 - Present</td>
     <td></td>
     <td></td>
 </tr>
@@ -263,7 +263,7 @@ When I was growing up in the programming world, I'm passionate about building an
     <a href="https://www.fiverr.com/maneeshdev01/do-any-graphic-design-work">
       Graphic Designer
     </a><p/></td>
-    <td>Freelance, Self-employed <br/> 2016 - Present</td>
+    <td>Freelance<br/> 2016 - Present</td>
     <td></td>
     <td></td>
 </tr>
